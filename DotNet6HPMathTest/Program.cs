@@ -19,8 +19,8 @@ namespace ConsoleAppHPMathTest
 
        // public GameObject SeekerPrefab;
        // public GameObject TargetPrefab;
-        static public int NumSeekers = 1000;
-        static public int NumTargets = 1000;
+        static public int NumSeekers = 2000;
+        static public int NumTargets = 2000;
         public Vector2 Bounds = new Vector2(500, 500);
 
         public void Start()
