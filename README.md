@@ -15,7 +15,9 @@ run in release mode
 # dotnet 6
 
 seeker and target number is same with unity, using System.Numerics.Vector3 in dotnet 6;
+
 static public int NumSeekers = 2000;
+
 static public int NumTargets = 2000;
 
 in debug mode(press f5 in visual studio)
